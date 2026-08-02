@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://trust.go-yubi.com/
+certifications:
+- SOC 2
+- ISO 27001
+evidence:
+- source: https://www.go-yubi.com/security-assurance
+  keywords:
+  - soc2
+  - iso 27001
+  - iso 29147
+  - cert-in
+  note: >-
+    Yubi Security Assurance (YSA) statement names SOC 2 and ISO 27001; the
+    responsible-disclosure policy references ISO 29147:2018 guidance and CERT-In.
+    Data protected with AES-256 at rest and in transit.
+- source: https://trust.go-yubi.com/
+  note: >-
+    Dedicated trust center exists (Cloudflare-gated); SOC 2 and ISO 27001 are the
+    certifications independently verified on the public security-assurance page.

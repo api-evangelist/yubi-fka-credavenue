@@ -1,8 +1,18 @@
 aid: yubi-fka-credavenue
 name: Yubi (fka CredAvenue)
-description: Yubi (fka CredAvenue) is a company surfaced as a portfolio company of insight-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Yubi (formerly CredAvenue) is a Chennai-based Indian fintech that operates a
+  unified technology platform for debt and credit markets, connecting borrowers,
+  lenders, and investors. Its product suite spans Yubi Loans (corporate lending),
+  Yubi Co.lend (bank–NBFC co-lending), Yubi Pools (securitisation), Yubi Invest
+  (fixed-income investing), Yubi Flow (supply-chain finance), and Yubi Build
+  (infrastructure and real-estate financing). Yubi exposes self-serve REST APIs —
+  first publicised for the Yubi Co.lend co-lending workflow — that let banks and
+  NBFCs configure loan products and integrate their systems directly. Developer
+  documentation is published on a Theneo-hosted developer portal at
+  developer.go-yubi.com. This profile was added to the API Evangelist network as a
+  portfolio-company lead of Insight Partners and enriched from Yubi's public
+  developer, product, and security surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/yubi-fka-credavenue/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +20,32 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://theneo-prod-public.s3.us-east-1.amazonaws.com/d19d546b-87d5-4d35-8b38-0b3ff9eeb69e.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Fintech
+- Lending
+- Debt Markets
+- Co-Lending
+- Securitisation
+- Supply Chain Finance
+- Financial Services
+- India
+- Credit
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +53,34 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/yubi-fka-credavenue-trust-center.yml
+- type: DomainSecurity
+  url: security/yubi-fka-credavenue-domain-security.yml
 - type: Website
   url: https://www.go-yubi.com/
+- type: DeveloperPortal
+  url: https://developer.go-yubi.com/
+- type: Documentation
+  url: https://developer.go-yubi.com/
+- type: Blog
+  url: https://www.go-yubi.com/blog/
+- type: Login
+  url: https://credit.go-yubi.com/
+- type: TermsOfService
+  url: https://www.go-yubi.com/terms
+- type: PrivacyPolicy
+  url: https://www.go-yubi.com/privacy-policy
+- type: Security
+  url: https://www.go-yubi.com/responsible-disclosure-policy
+- type: VulnerabilityDisclosure
+  url: security/yubi-fka-credavenue-vulnerability-disclosure.yml
+- type: Compliance
+  url: https://www.go-yubi.com/security-assurance
+- type: LLMsTxt
+  url: llms/yubi-fka-credavenue-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

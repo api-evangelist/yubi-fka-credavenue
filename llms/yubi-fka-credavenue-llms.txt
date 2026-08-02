@@ -1,0 +1,27 @@
+# Yubi (fka CredAvenue)
+
+> Yubi (formerly CredAvenue) is a Chennai-based Indian fintech operating a unified technology platform for debt and credit markets — connecting borrowers, lenders, and investors. It exposes self-serve REST APIs (first publicised for the Yubi Co.lend co-lending workflow) that let banks and NBFCs configure loan products and integrate their systems. Developer documentation is published on a Theneo-hosted developer portal.
+
+## Products
+- [Yubi Co.lend (co-lending)](https://www.go-yubi.com/co-lending): bank–NBFC co-origination and co-lending platform with self-serve integration APIs.
+- [Yubi Loans](https://www.go-yubi.com/): corporate and enterprise lending.
+- [Yubi products overview](https://www.go-yubi.com/): Pools (securitisation), Invest (fixed income), Flow (supply-chain finance), Build (infra/real-estate financing).
+
+## Developer
+- [Yubi Developer Portal](https://developer.go-yubi.com/): Theneo-hosted API documentation hub.
+- [Login / customer app](https://credit.go-yubi.com/): Yubi credit platform sign-in.
+
+## Docs
+- [Blog](https://www.go-yubi.com/blog/): product and engineering posts.
+- [Co-lending self-serve APIs (announcement)](https://www.go-yubi.com/blog/co-lending-credavenue-api/)
+- [About](https://www.go-yubi.com/about)
+
+## Security
+- [Responsible Disclosure Policy](https://www.go-yubi.com/responsible-disclosure-policy): coordinated disclosure (ISO 29147:2018), contact disclosure@go-yubi.com.
+- [Security Hall of Fame](https://www.go-yubi.com/security-hall-of-fame)
+- [Security Assurance (YSA) statement](https://www.go-yubi.com/security-assurance): SOC 2, ISO 27001, AES-256 at rest and in transit.
+- [Trust Center](https://trust.go-yubi.com/)
+
+## Legal
+- [Terms](https://www.go-yubi.com/terms)
+- [Privacy Policy](https://www.go-yubi.com/privacy-policy)
