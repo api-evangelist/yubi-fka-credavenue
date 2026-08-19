@@ -32,7 +32,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://theneo-prod-public.s3.us-east-1.amazonaws.com/d19d546b-87d5-4d35-8b38-0b3ff9eeb69e.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
